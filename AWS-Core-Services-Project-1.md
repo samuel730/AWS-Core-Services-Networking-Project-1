@@ -3,8 +3,11 @@
 ## Introduction to Cloud Computing Concepts
 
 **Name:** Samuel Adesanya
+
 **Project:** Introduction to Cloud Computing - AWS
+
 **Topic:** AWS Critical Thinking Questions
+
 **Date:** August 2026
 
 ---
