@@ -596,30 +596,37 @@ Add screenshots of the AWS resources used during the practical part of the proje
 
 ## Screenshot 1 – AWS Console
 
-**[INSERT SCREENSHOT HERE]**
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/a01029a8-00bf-4669-9c0a-ff5ad65166be" />
+
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/e9c44a31-14f9-4433-85e4-dece90162a3f" />
+
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/2de8aa0b-fae1-4481-a830-0694aa565dcb" />
+
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/96c8a15b-7083-48eb-a133-422ac2fb4159" />
 
 Description: AWS Management Console showing the relevant AWS resources.
 
 ## Screenshot 2 – EC2
 
-**[INSERT SCREENSHOT HERE]**
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/4f24597e-cc06-4b4c-83b4-21a83594eee9" />
 
 Description: EC2 instance running the application or container.
 
 ## Screenshot 3 – S3
 
-**[INSERT SCREENSHOT HERE]**
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/35478a2c-730c-4009-aaec-b053ee98254d" />
 
 Description: S3 bucket used for object storage.
 
 ## Screenshot 4 – VPC
 
-**[INSERT SCREENSHOT HERE]**
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/7593f257-b245-4c9d-95e5-c486fc204cc9" />
 
 Description: VPC and networking configuration.
 
 ## Screenshot 5 – AWS Pricing Calculator
 
+<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/f4ab27a4-d42c-4bc3-9ec1-6f8d3b5380de" />
 
 ---
 
